@@ -3,8 +3,8 @@ DAMA Day 2020 - Sample Data Files, Notebooks, and all supporting documents from 
 
 ### Usage:
 
-`git clone https://github.com/damapdx/DAMADAY_2020.git`
+`git clone https://github.com/damapdx/DAMADAY_2020.git`  
 `cd DAMADAY_2020`
 
-### Install Python environment
+### Install Python environment:
 `pip install -r requirements.txt`
